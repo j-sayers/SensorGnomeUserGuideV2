@@ -1,3 +1,5 @@
+# This repo is archived and has been replaced by https://github.com/MotusWTS/sensorgnome-guide-v1
+
 # Introduction and Overview
 
 In this document you will find how to:
