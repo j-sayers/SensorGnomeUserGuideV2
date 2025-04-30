@@ -1,4 +1,4 @@
-# This repo is archived and has been replaced by https://github.com/MotusWTS/sensorgnome-guide-v1
+# This repo is archived and has been replaced by https://github.com/MotusWTS/sensorgnome-guide-v2
 
 # Introduction and Overview
 
